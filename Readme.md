@@ -1,4 +1,4 @@
-# Book My Show
+# ShowTime-Explorer
 
 ## Implementation
 
@@ -12,7 +12,7 @@
 
 5. Exception Handling is done using ExceptionInterceptor. 
 
-6. Unit test cases are present for User Operations - User Registration and User Get. Cases for exceptions are also handled.
+6. Added Unit test cases are present for User Operations - User Registration and User Get. Cases for exceptions are also handled.
 
 
 ## Assumptions
